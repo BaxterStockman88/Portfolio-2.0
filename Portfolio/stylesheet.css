@@ -1,0 +1,131 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+h1,h2,h3,h4,p {
+	font-family: 'Muli', sans-serif;
+	font-weight: bold;
+}
+
+
+#sector1 {
+	color: #fff;
+	min-height: 700px;
+	background-image: url(images/sector1img.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.8;
+}
+.navbar-brand {
+	font-family: 'Dancing Script';
+	letter-spacing: 2px;
+	border-bottom: 1px solid #ffebeb;
+	color: #182a27;
+}
+
+#intro {
+	padding-top: 200px;
+	font-family: 'Muli';
+	color: black;
+	font-size: 50px;
+}
+#sector2 {
+	color: #fff;
+	min-height: 100vh;
+	background-image: url(images/sector2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.7;
+}
+.about {
+	padding-top: 100px;
+	font-family: 'Muli';
+	color: black;
+	font-size: 50px;
+}
+#hero h3 {
+	font-family: 'Muli';
+	font-size: 30px;
+	color: black;
+	padding-top: 50px;
+	font-weight: bold;
+}
+#sector3 {
+	min-height: 100vh;
+	background-image: url(images/work.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+.thumbnail {
+	background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid #ddd;
+}
+
+.thumbnail:hover {
+	background-color: transparent;
+}
+.img-responsive {
+	margin: 0 auto;
+} 
+#sector3 h3 {
+	font-family: 'Muli';
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+#skills-heading {
+	font-family: 'Muli';
+	font-size: 30px;
+	padding-top: 50px;
+	font-weight: bold;
+}
+#sector4 {
+min-height: 100vh;
+	background-image: url(images/sector4.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+#mywork-heading {
+	font-family: 'Muli';
+	font-weight: bold;
+	padding-top: 50px;
+	font-size: 30px;
+	padding-bottom: 50px;
+	color: black;
+}
+#sector5 {
+min-height: 100%;
+	background-image: url(images/sector5.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+#myPicture {
+	opacity: 1;
+	height: 300px;
+	margin: 50px 0 50px 0;
+}
+#sector5 a:hover  {
+	color: #b0e0e6;
+}
+#sector5 a {
+	color: #7ec0ee;
+
+}
